@@ -1,5 +1,5 @@
 <center>
-  <h1> Hi everyone! This is valeria</h1>
+  <h1>✨  Hi everyone! This is valeria ✨ </h1>
 </center>
 <!--
 **itsval16/itsval16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
